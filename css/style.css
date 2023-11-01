@@ -19,7 +19,7 @@ body {
 }
 
 .header_img {
-	background: url(../images/hero.jpg);
+	background: url(images/hero.jpg);
 	background-size: cover;
 	min-height: 100vh;
 }
